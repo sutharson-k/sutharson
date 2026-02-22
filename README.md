@@ -1,59 +1,98 @@
-# 💫 About Me
-🚀 Full Stack Developer | AI Builder | Hackathon Enthusiast  
-Hi, I’m **Sutharson (Dotsy)** — a 19-year-old Computer Science student from India 🇮🇳 I build real-world web apps, AI agents, and scalable backend systems, and I focus on shipping complete working products from idea to deployment.
+# Hey, I'm Sutharson 👋
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Agent+Builder;Hackathon+Builder;Building+Real+World+Products" /></p>
-<p align="center"><img src="https://img.shields.io/badge/Focus-FullStack%20%2B%20AI-blue?style=for-the-badge&logo=appveyor"/><img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/><img src="https://img.shields.io/badge/Building-Startups-orange?style=for-the-badge"/></p>
+**Full-Stack Developer | AI/ML Enthusiast | Building Cool Stuff** 
 
-## 🌐 Connect With Me
-<p align="center">
-<a href="https://linkedin.com/in/sutharson-k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/Sutharson"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:sutharsonmohan@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+> Currently building an AI autonomous agent & a full-stack platform for a hackathon. Open to collaborating on interesting projects.
 
-## 🚀 Featured Projects
-### 🏗 Sand Marketplace Platform
-Marketplace connecting buyers, sellers, and transporters with verification + escrow-style payments
-<p align="center">
-<img src="https://via.placeholder.com/800x400.png?text=Sand+Marketplace+Dashboard"/>
-<img src="https://via.placeholder.com/800x400.png?text=Order+Tracking+UI"/>
-</p>
+---
 
-### 👻 Echoes of Walls (Horror Game)
-AI voice mimic horror experience with dynamic lighting and sound
-<p align="center">
-<img src="https://via.placeholder.com/800x400.png?text=Dark+Hallway+Scene"/>
-<img src="https://via.placeholder.com/800x400.png?text=Monster+Encounter"/>
-</p>
+## 🚀 What I'm Working On
 
-### 🔫 Multiplayer Shooter (Java)
-1v1 & 2v2 shooter with voice chat and 5 weapon systems
-<p align="center">
-<img src="https://via.placeholder.com/800x400.png?text=Shooter+Gameplay"/>
-</p>
+🔭 **AI Autonomous Agent** - Intelligent agent that makes decisions on its own  
+🌐 **Full-Stack Hackathon Project** - End-to-end web application (frontend + backend)  
+🎓 **Learning Path** - Python, databases, UI/UX design  
 
-## 🛠 Tech Stack
-C++ | C | Java | Python | JavaScript | Next.js | Node.js | Express.js | FastAPI | Vite | MongoDB | Firebase | Supabase | CockroachDB | Google Cloud | Cloudflare | Netlify | Vercel | Figma | Bootstrap | TensorFlow | PyTorch | OpenCV | NumPy | Pandas | Git | Docker | Playwright | Anaconda
+**Want to collaborate?** Reach out! I'm always up for working with people on ambitious projects.
 
-## 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=sutharson-k&theme=tokyonight&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=sutharson-k&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sutharson-k&theme=tokyonight&hide_border=true&layout=compact)
+---
+
+## 💬 Let's Connect
+
+<a href="https://linkedin.com/in/sutharson-k" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/Sutharson" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%23000000?style=flat-square&logo=X&logoColor=white" alt="Twitter" />
+</a>
+<a href="mailto:sutharsonmohan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages** • C++ | C | Java | Python  
+
+**Frontend** • Next.js | Express.js | React | Bootstrap | Vite  
+
+**Backend** • FastAPI | Node.js | Express.js  
+
+**Databases** • MongoDB | Firebase | Supabase | CockroachDB  
+
+**Cloud & Deployment** • Google Cloud | Cloudflare | Netlify | Vercel  
+
+**ML/AI Tools** • TensorFlow | PyTorch | NumPy | Pandas | OpenCV  
+
+**Design** • Figma | Blender | Canva | Krita  
+
+**Other** • Docker | Git | Playwright | Home Assistant | Notion  
+
+---
+
+## 📊 GitHub Activity
+
+<table>
+  <tr>
+    <td>
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sutharson-k&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharson-k&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+<img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=sutharson-k&theme=dark&hide_border=true" width="100%" />
+
+---
 
 ## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=sutharson-k&theme=tokyonight)
 
-## 👀 Visitor Counter + Engagement
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sutharson-k&label=Profile%20Views&color=blue&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/sutharson-k?style=for-the-badge&color=green"/>
-<img src="https://img.shields.io/github/stars/sutharson-k?style=for-the-badge&color=yellow"/>
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sutharson-k&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6)
 
-## 💬 Why Hire Me
-I build production-ready systems, combine AI with full stack development, execute fast, and turn ideas into real deployed products.
+---
 
-## 📩 Let’s Work Together
-If you're building a startup, AI product, or platform — I can help you build it.  
-📧 sutharsonmohan@gmail.com | 💼 https://linkedin.com/in/sutharson-k
+## 💡 Quick Facts
+
+- 🎓 19 years old, college student from India
+- 🤝 Always open to collaboration and learning from others
+- 💪 Passionate about building full-stack applications and AI projects
+- 🎯 Currently focused on: hackathons, autonomous systems, and shipping products
+- 📚 Growth mindset – constantly learning new technologies
+
+---
+
+<div align="center">
+
+**Let's build something amazing together!**
+
+<a href="https://linkedin.com/in/sutharson-k">
+  <img src="https://img.shields.io/badge/DM%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="DM on LinkedIn" />
+</a>
+
+</div>
+
+---
+
+<img src="https://visitcount.itsvg.in/api?id=sutharson-k&icon=0&color=0" alt="Visit count" />
