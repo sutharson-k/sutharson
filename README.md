@@ -1,24 +1,59 @@
-# 💫 About Me:
-🔭 I’m currently working on full stack website for hackathon,ai autonomous agent<br>👯 I’m looking to collaborate on full stack developing<br>🌱 I’m currently learning python,DB,UI/UX<br>⚡ Fun fact 19 year old Indian college studen
+# 💫 About Me
+🚀 Full Stack Developer | AI Builder | Hackathon Enthusiast  
+Hi, I’m **Sutharson (Dotsy)** — a 19-year-old Computer Science student from India 🇮🇳 I build real-world web apps, AI agents, and scalable backend systems, and I focus on shipping complete working products from idea to deployment.
 
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Agent+Builder;Hackathon+Builder;Building+Real+World+Products" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Focus-FullStack%20%2B%20AI-blue?style=for-the-badge&logo=appveyor"/><img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/><img src="https://img.shields.io/badge/Building-Startups-orange?style=for-the-badge"/></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sutharson-k) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sutharson) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sutharsonmohan@gmail.com) 
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/sutharson-k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/Sutharson"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:sutharsonmohan@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sutharson-k&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sutharson-k&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sutharson-k&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Featured Projects
+### 🏗 Sand Marketplace Platform
+Marketplace connecting buyers, sellers, and transporters with verification + escrow-style payments
+<p align="center">
+<img src="https://via.placeholder.com/800x400.png?text=Sand+Marketplace+Dashboard"/>
+<img src="https://via.placeholder.com/800x400.png?text=Order+Tracking+UI"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sutharson-k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 👻 Echoes of Walls (Horror Game)
+AI voice mimic horror experience with dynamic lighting and sound
+<p align="center">
+<img src="https://via.placeholder.com/800x400.png?text=Dark+Hallway+Scene"/>
+<img src="https://via.placeholder.com/800x400.png?text=Monster+Encounter"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sutharson-k&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔫 Multiplayer Shooter (Java)
+1v1 & 2v2 shooter with voice chat and 5 weapon systems
+<p align="center">
+<img src="https://via.placeholder.com/800x400.png?text=Shooter+Gameplay"/>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=sutharson-k&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠 Tech Stack
+C++ | C | Java | Python | JavaScript | Next.js | Node.js | Express.js | FastAPI | Vite | MongoDB | Firebase | Supabase | CockroachDB | Google Cloud | Cloudflare | Netlify | Vercel | Figma | Bootstrap | TensorFlow | PyTorch | OpenCV | NumPy | Pandas | Git | Docker | Playwright | Anaconda
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Analytics
+![](https://github-readme-stats.vercel.app/api?username=sutharson-k&theme=tokyonight&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=sutharson-k&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sutharson-k&theme=tokyonight&hide_border=true&layout=compact)
+
+## 🏆 Achievements
+![](https://github-profile-trophy.vercel.app/?username=sutharson-k&theme=tokyonight)
+
+## 👀 Visitor Counter + Engagement
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sutharson-k&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sutharson-k?style=for-the-badge&color=green"/>
+<img src="https://img.shields.io/github/stars/sutharson-k?style=for-the-badge&color=yellow"/>
+</p>
+
+## 💬 Why Hire Me
+I build production-ready systems, combine AI with full stack development, execute fast, and turn ideas into real deployed products.
+
+## 📩 Let’s Work Together
+If you're building a startup, AI product, or platform — I can help you build it.  
+📧 sutharsonmohan@gmail.com | 💼 https://linkedin.com/in/sutharson-k
