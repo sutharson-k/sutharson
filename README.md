@@ -1,98 +1,24 @@
-# Hey, I'm Sutharson 👋
+<h1 align="center">Hi 👋, I'm sutharson</h1>
+<h3 align="center">A passionate web developer from India,builder of ai agents</h3>
 
-**Full-Stack Developer | AI/ML Enthusiast | Building Cool Stuff** 
+- 🔭 I’m currently working on website [sunny](https://github.com/sutharson-k/sand-project-2.git)
 
-> Currently building an AI autonomous agent & a full-stack platform for a hackathon. Open to collaborating on interesting projects.
+- 🌱 I’m currently learning ai automation **HTML,CSS,JS VITE+REACT**
 
----
+- 📫 How to reach me **sutharsonmohan@gmail.com**
 
-## 🚀 What I'm Working On
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sutharson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sutharson" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sutharson_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sutharson_k" height="30" width="40" /></a>
+<a href="https://instagram.com/sutharson_ngl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sutharson_ngl" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sutharson 2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sutharson 2006" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sutharson-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sutharson-k" height="30" width="40" /></a>
+</p>
 
-🔭 **AI Autonomous Agent** - Intelligent agent that makes decisions on its own  
-🌐 **Full-Stack Hackathon Project** - End-to-end web application (frontend + backend)  
-🎓 **Learning Path** - Python, databases, UI/UX design  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-**Want to collaborate?** Reach out! I'm always up for working with people on ambitious projects.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sutharson-k&show_icons=true&locale=en&layout=compact" alt="sutharson-k" /></p>
 
----
-
-## 💬 Let's Connect
-
-<a href="https://linkedin.com/in/sutharson-k" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/Sutharson" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%23000000?style=flat-square&logo=X&logoColor=white" alt="Twitter" />
-</a>
-<a href="mailto:sutharsonmohan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages** • C++ | C | Java | Python  
-
-**Frontend** • Next.js | Express.js | React | Bootstrap | Vite  
-
-**Backend** • FastAPI | Node.js | Express.js  
-
-**Databases** • MongoDB | Firebase | Supabase | CockroachDB  
-
-**Cloud & Deployment** • Google Cloud | Cloudflare | Netlify | Vercel  
-
-**ML/AI Tools** • TensorFlow | PyTorch | NumPy | Pandas | OpenCV  
-
-**Design** • Figma | Blender | Canva | Krita  
-
-**Other** • Docker | Git | Playwright | Home Assistant | Notion  
-
----
-
-## 📊 GitHub Activity
-
-<table>
-  <tr>
-    <td>
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sutharson-k&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharson-k&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
-
-<img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=sutharson-k&theme=dark&hide_border=true" width="100%" />
-
----
-
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sutharson-k&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6)
-
----
-
-## 💡 Quick Facts
-
-- 🎓 19 years old, college student from India
-- 🤝 Always open to collaboration and learning from others
-- 💪 Passionate about building full-stack applications and AI projects
-- 🎯 Currently focused on: hackathons, autonomous systems, and shipping products
-- 📚 Growth mindset – constantly learning new technologies
-
----
-
-<div align="center">
-
-**Let's build something amazing together!**
-
-<a href="https://linkedin.com/in/sutharson-k">
-  <img src="https://img.shields.io/badge/DM%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="DM on LinkedIn" />
-</a>
-
-</div>
-
----
-
-<img src="https://visitcount.itsvg.in/api?id=sutharson-k&icon=0&color=0" alt="Visit count" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sutharson-k&" alt="sutharson-k" /></p>
