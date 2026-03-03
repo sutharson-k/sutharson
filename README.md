@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sutharson 2006
+# Hi 👋, I'm Sutharson
 
 ### An experienced Python developer
 
