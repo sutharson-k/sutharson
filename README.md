@@ -1,121 +1,57 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm sutharson</h1>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 💡 <em>✏️ A sentence about you and what you do.</em>
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sutharson-k&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="sutharson-k's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=sutharson-k&theme=nightowl&hide_border=true&cache_seconds=86400" alt="sutharson-k's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharson-k&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sutharson-k&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="sutharson's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sutharson-k&theme=nightowl&radius=10" alt="sutharson-k's Activity Graph" />
+</p>
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 <div align="center">
-
-# Hey there! <img src="https://raw.githubusercontent.com/kaue-marques/kaue-marques/master/assets/wave.gif" width="30px"/> I'm Sutharson
-
-### CS Student | AI & Data Science | Automation Enthusiast
-
-<a href="https://twitter.com/dotsy_2006" target="blank"><img src="https://img.shields.io/twitter/follow/dotsy_2006?logo=twitter&style=for-the-badge" alt="dotsy_2006" /></a>
-<a href="https://linkedin.com/in/sutharson_k" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sutharson_k" /></a>
-<a href="mailto:sutharsonmohan@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sutharsonmohan@gmail.com" /></a>
-<a href="https://leetcode.com/sutharson-k" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="sutharson-k" /></a>
-
----
-
-## About Me
-
-- Currently pursuing **B.Tech in Computer Science** with specialization in **AI & Data Science**
-- Passionate about **AI/ML**, **Automation**, and **CLI tools**
-- I love building things that make life easier through code
-- Open to collaborations and new opportunities!
-
----
-
-## Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  <!---->
 </div>
 
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### CLI Chatbot
-> A professional CLI chatbot for interview preparation with NLP, conversation management, and extensible architecture.
-
-`Python` `Click` `Rich`
-
-</td>
-<td width="50%" valign="top">
-
-### Tic-Tac-Toe AI
-> Unbeatable AI opponent powered by the Minimax algorithm with a clean terminal interface.
-
-`Python` `AI` `Game Theory`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### AI Mafia Game
-> AI-powered social deduction game with intelligent NPCs and natural language interactions.
-
-`Python` `AI` `NLP`
-
-</td>
-<td width="50%" valign="top">
-
-### Smart Attendance
-> Automated attendance system using face recognition and AI-powered detection.
-
-`Python` `OpenCV` `AI/ML`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Chess Engine
-> Interactive chess engine with AI opponent and full game logic implementation.
-
-`JavaScript` `AI` `Game Engine`
-
-</td>
-<td width="50%" valign="top">
-
-### Network Inventory
-> Automated network scanning and inventory management tool for system administrators.
-
-`Python` `Networking` `Automation`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sutharson-k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sutharson-k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sutharson-k&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sutharson-k&color=blueviolet&style=flat-square)
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-snake-dark.svg" width="100%" alt="snake animation"/>
-
-</div>
+<p align="center"><sub>sutharson · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
